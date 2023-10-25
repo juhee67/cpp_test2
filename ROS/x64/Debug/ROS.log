@@ -1,0 +1,3 @@
+﻿  ROS.cpp
+C:\work\ROS\ROS.cpp(8,7): warning C4101: 'aa' :참조되지 않은 지역 변수입니다.
+  ROS.vcxproj -> C:\work\ROS\x64\Debug\ROS.exe

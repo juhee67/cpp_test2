@@ -1,0 +1,6 @@
+﻿  circle.cpp
+C:\work\cir\circle.cpp(4,10): error C3873: '0x201c': 이 문자는 식별자의 첫 문자로 사용할 수 없습니다.
+C:\work\cir\circle.cpp(4,10): error C2006: '#include': "FILENAME" 또는 <FILENAME>이 필요합니다.
+C:\work\cir\circle.cpp(4,10): fatal  error C1083: 포함 파일을 열 수 없습니다. '': No such file or directory
+  main.cpp
+  코드를 생성하고 있습니다...
